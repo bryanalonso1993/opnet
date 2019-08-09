@@ -1,0 +1,24 @@
+body{
+    padding:0px;
+    margin: 0px;
+    background: url("..\img\font.jpg") no-repeat fixed center;
+}
+nav{
+    background-color: white;
+}
+.main-header{
+    position: relative;
+    background-color: white;
+    min-width: 700px;
+
+}
+
+footer{
+    background-color:rgb(41, 39, 39);
+}
+
+/*
+a.nav-link{
+    color:white;
+}
+*/
